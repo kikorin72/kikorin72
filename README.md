@@ -9,8 +9,9 @@ I like my UIs clean, my bugs minimal, and my weekends green.</p>
 - 🗺️ Wanderlust alert: I travel whenever I can (in my head if not on trains 🧳)  
 - 🌸 I love aesthetic UIs almost as much as I love to-do lists and productivity hacks  
 - 🧘‍♀️ Balance = Coding + Reading + Music + Long walks
+  
+</br>
 
----
 
 <h2 align="center">🧰 My Tech Toolbox</h2>
 
