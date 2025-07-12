@@ -1,12 +1,3 @@
-<h1 align="center">Hey there! I'm Kriti 👋</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cold%20Coffee-2b2d42?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nature%20Lover-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Books ❤️-6C5CE7?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-ff6f61?style=for-the-badge" />
-</p>
-
 <h2 align="center">👩🏻‍💻 About Me</h2>
 
 <p>I’m Kriti — a curious human who writes code, reads books, sips cold coffee, and escapes into nature whenever possible 🌿 Currently juggling React projects and backend learnings, with a chai or cold brew never too far away ☕📚 
@@ -86,7 +77,6 @@ I like my UIs clean, my bugs minimal, and my weekends green.</p>
 </table>
 
 </div>
-
 
 <p align="center">
   <sub>
