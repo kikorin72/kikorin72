@@ -16,68 +16,70 @@ I like my UIs clean, my bugs minimal, and my weekends green.</p>
 <h2 align="center">🧰 My Tech Toolbox</h2>
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br />HTML
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br />CSS
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br />JavaScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /><br />TypeScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /><br />React
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /><br />Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" /><br />Express
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /><br />MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" /><br />Figma
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br />Git
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br />GitHub
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br />VS Code
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" /><br />Postman
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS" /><br />AWS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /><br />Docker
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" /><br />Kubernetes
-    </td>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Always%20Learning-blueviolet?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br />HTML
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br />CSS
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" /><br />Tailwind
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br />JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /><br />TypeScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /><br />React
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /><br />Node.js
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js" /><br />Express
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /><br />MongoDB
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" /><br />Figma
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br />Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br />GitHub
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br />VS Code
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" /><br />Postman
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS" /><br />AWS
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /><br />Docker
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" /><br />Kubernetes
+      </td>
+      <td align="center" width="100" colspan="4">
+        <img src="https://img.shields.io/badge/Always%20Learning-blueviolet?style=for-the-badge" alt="Always Learning" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <p align="center">
   <sub>
