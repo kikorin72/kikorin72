@@ -3,7 +3,7 @@
 <p>I’m Kriti — a curious human who writes code, reads books, sips cold coffee, and escapes into nature whenever possible 🌿 Currently juggling React projects and backend learnings, with a chai or cold brew never too far away ☕📚 
 I like my UIs clean, my bugs minimal, and my weekends green.</p>
 
-- 💼 Working at HCLTech as GET on projects by day  
+- 💼 Working at HCLTech on tech projects by day  
 - 🧪 Tinkering with React and Node.js by night  
 - 📝 Journaling my fullstack learning journey like a tech diary  
 - 🗺️ Wanderlust alert: I travel whenever I can (in my head if not on trains 🧳)  
