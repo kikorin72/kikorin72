@@ -12,7 +12,7 @@ I like my UIs clean, my bugs minimal, and my weekends green.</p>
 
 ---
 
-<h3 align="center">🧰 My Tech Toolbox</h3>
+<h2 align="center">🧰 My Tech Toolbox</h2>
 
 <div align="center">
 
